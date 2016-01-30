@@ -2,12 +2,12 @@
 <html>
 <!--
 ====================================================
-    __  ____  ______________  _______ ___    __ 
-   / / / /  |/  / ____/   \ \/ / ___//   |  / / 
-  / /_/ / /|_/ / /_  / /| |\  /\__ \/ /| | / /  
+    __  ____  ______________  _______ ___    __
+   / / / /  |/  / ____/   \ \/ / ___//   |  / /
+  / /_/ / /|_/ / /_  / /| |\  /\__ \/ /| | / /
  / __  / /  / / __/ / ___ |/ /___/ / ___ |/ /___
 /_/ /_/_/  /_/_/   /_/  |_/_//____/_/  |_/_____/
-                                                     
+
 ====================================================
 Owner Name: Hossain Mohammad Faysal
 Profile: https://www.facebook.com/hmfaysal
@@ -39,7 +39,7 @@ Description: Awesome dude, awesome life
                         {% endif %}
                         <div class="post-info text-center small">
                             {% if page.modified %}Last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ page.modified | date: "%d %b %Y" }}</time>{% endif %}
-                            {% if site.readtime %}&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;{% if readtime > 1 and readtime < 1.5 %}1 minute read{% endif %}{% if readtime > 1.5 %}<span class="time">{{ readtime }}</span> minutes read{% endif %}{% if readtime < 1 %}Less than 1 minute read{% endif %}</span>{% endif %}
+                            {% if site.readtime %}&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;{% if readtime > 1 and readtime < 1.5 %}1 minuto de leitura{% endif %}{% if readtime > 1.5 %}<span class="time">{{ readtime }}</span> minutos de leitura{% endif %}{% if readtime < 1 %}Menos de 1 minuto de leitura{% endif %}</span>{% endif %}
                         </div>
                     </header>
                     <div class="page-body" itemprop="description">
@@ -52,6 +52,6 @@ Description: Awesome dude, awesome life
 </div>
     {% include footer.html %}
 
-{% include scripts.html %}  
+{% include scripts.html %}
 </body>
 </html>
