@@ -22,7 +22,7 @@ A experiência aqui está me deixando disposto a migrar as minhas antigas postag
 
 E o que quero dizer com estrutura estática ?!
 <figure>
-	<img src="{{ site.url }}/images/firstcommit/jekyll.png" height="50%" width="50%>
+	<img src="{{ site.url }}/images/firstcommit/jekyll.png" height="50%" width="50%">
 	<figcaption><a href="https://www.jekyllrb.com/" data-toggle="tooltip" title="Visite o site do Jekyll">Jekyll</a></figcaption>
 </figure>
 Para entender como isso tudo funciona conheça o **[Jekyll](https://jekyllrb.com/)**
