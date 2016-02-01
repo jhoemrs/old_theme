@@ -12,10 +12,7 @@ comments: true
 share: true
 ---
 
-
 **Como Instalar, Configurar e  o que é ?**
-
----
 
 Hoje iniciaremos o aprendizado sobre Git e Github.
 
