@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Instalando Git e Github !"
+title: "Instalando Git e Github"
 description: "Como instalar , configurar e o que é."
 headline: "Você ainda não sabe o que é git, venha aprender!"
 category: Desenvolvimento
