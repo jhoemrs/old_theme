@@ -50,7 +50,7 @@ Simples assim, caso queira usar Ruindows para programar arrume uma máquina virt
 
 Primeiro atualize o seu repositório de aplicações com o famoso:
 
-{% highlight shell %}
+{% highlight sh %}
 sudo apt-get update
 {% endhighlight %}
 
