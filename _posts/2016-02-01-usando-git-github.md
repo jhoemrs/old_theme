@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "O Primeiro Commit !"
-description: "O Primeiro Commit do blog, que virá repleto de informações sobre desenvolvimento e tecnologias."
-headline: "O primeiro commit foi dado, venha conferir !"
+title: "Instalando Git e Github !"
+description: "Como instalar , configurar e o que é."
+headline: "Você ainda não sabe o que é git, venha aprender!"
 category: Desenvolvimento
-tags: [Jekyll, Git]
+tags: [GitHub, Git]
 modified: 2016-01-31
 featured: true
-imagefeature: firstcommit/albert-einstein.jpg
+imagefeature: gitegithub/gitgithub.jpg
 comments: true
 share: true
 ---
