@@ -50,7 +50,9 @@ Simples assim, caso queira usar Ruindows para programar arrume uma máquina virt
 
 Primeiro atualize o seu repositório de aplicações com o famoso:
 
-> `sudo apt-get update`
+{% highlight bash %}
+sudo apt-get update
+{% endhighlight %}
 
 Em seguida, basta selecionar o Git e instalar:
 
