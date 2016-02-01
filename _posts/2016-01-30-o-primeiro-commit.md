@@ -44,7 +44,7 @@ Não recomendo o uso mais avançado para não familiarizados com programação. 
 Com um pouco de dedicação certamente aprenderá como tudo funciona rapidamente.
 
 <figure>
-	<img src="{{ site.url }}/images/firstcommit/github.png">
+	<img src="{{ site.url }}/images/firstcommit/github.png" height="50%" width="50%">
 	<figcaption><a href="https://www.github.com/" data-toggle="tooltip" title="Visite o site do GitHub">GitHub</a></figcaption>
 </figure>
 
