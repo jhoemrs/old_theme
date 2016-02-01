@@ -5,7 +5,7 @@ description: "Como instalar , configurar e o que é."
 headline: "Você ainda não sabe o que é git, venha aprender!"
 category: Desenvolvimento
 tags: [GitHub, Git]
-modified: 2016-01-31
+modified: 2016-02-01
 featured: true
 imagefeature: gitegithub/gitgithub.jpg
 comments: true
