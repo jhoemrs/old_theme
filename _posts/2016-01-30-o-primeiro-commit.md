@@ -12,9 +12,6 @@ comments: true
 share: true
 ---
 
-O primeiro Commit !
-================
-
 > "O começo é a metade do todo" - Platão
 
 Resolvi fazer este blog, inicialmente para testar a ferramenta do **[GitHub Pages](https://pages.github.com)** , até agora tem se demonstrado uma ótima ferramenta para quem busca fazer um blog que você pode personalizar, onde há temas com códigos simples e inteligíveis.
