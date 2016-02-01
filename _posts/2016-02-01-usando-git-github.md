@@ -69,9 +69,9 @@ Se a sua distribuição Linux não contiver o **APT**, você pode instalar a par
 Para isso, siga através **[deste link](https://github.com/git/git)** para a página principal do repositório do projeto *Git* no *GitHub*. As instruções de acordo com sua distribuição para compilar a aplicação devem estar disponíveis na página.
 
 Se você estiver pensando em iniciar no mundo Linux, indico algumas distribuições:  
-1. **Debian**
-2. **Ubuntu**
-3. **Elementary OS**
+1. **Debian**  
+2. **Ubuntu**  
+3. **Elementary OS**  
 
 *Siga [@jhoemrs](http://www.twitter.com/jhoemrs) no twitter!*
 
