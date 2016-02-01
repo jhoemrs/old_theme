@@ -5,9 +5,9 @@ description: "O Primeiro Commit do blog, que virá repleto de informações sobr
 headline: "O primeiro commit foi dado, venha conferir !"
 category: Desenvolvimento
 tags: [Jekyll, Git]
-modified: 2016-01-30
+modified: 2016-01-31
 featured: true
-imagefeature: albert-einstein.jpg
+imagefeature: firstcommit/albert-einstein.jpg
 comments: true
 share: true
 ---
