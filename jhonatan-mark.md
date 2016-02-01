@@ -2,7 +2,7 @@
 layout: page
 permalink: /jhonatan-mark/index.html
 title: Jhonatan Mark
-tags: [Jhonatan, Mark, About, jhoemrs]
+tags: [Jhonatan, Mark, jhoemrs]
 image:
   feature: jhoemrs.png
 ---
