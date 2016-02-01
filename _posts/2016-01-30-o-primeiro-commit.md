@@ -22,10 +22,10 @@ A experiência aqui está me deixando disposto a migrar as minhas antigas postag
 
 E o que quero dizer com estrutura estática ?!
 <figure>
-	<a href="{{ site.url }}/images/firstcommit/jekyll.png"><img src="{{ site.url }}/images/firstcommit/jekyll.png"></a>
-	<figcaption><a href="https://jekyllrb.com/" data-toggle="tooltip" title="Visite o site do Jekyll">Jekyll</a>.</figcaption>
+	<img src="{{ site.url }}/images/firstcommit/jekyll.png">
+	<figcaption><a href="https://www.jekyllrb.com/" data-toggle="tooltip" title="Visite o site do Jekyll">Jekyll</a></figcaption>
 </figure>
-Para entender como isso tudo funciona conheça o ** [Jekyll](https://jekyllrb.com/)**
+Para entender como isso tudo funciona conheça o **[Jekyll](https://jekyllrb.com/)**
 , abaixo segue a descrição oferecida pelos desenvolvedores para um breve resumo:
 
 >>Simple
@@ -42,7 +42,12 @@ Para entender como isso tudo funciona conheça o ** [Jekyll](https://jekyllrb.co
 
 Não recomendo o uso mais avançado para não familiarizados com programação. Porém, o seu uso é completamente possível caso seu objetivo for apenas o básico, sem precisar se aprofundar muito em questões técnicas.
 Com um pouco de dedicação certamente aprenderá como tudo funciona rapidamente.
-![GitHub](/storage/emulated/0/Download/github.png)
+
+<figure>
+	<img src="{{ site.url }}/images/firstcommit/github.png">
+	<figcaption><a href="https://www.github.com/" data-toggle="tooltip" title="Visite o site do GitHub">GitHub</a></figcaption>
+</figure>
+
 Bom, seguindo na mesma linha todo mundo deve conhecer a ferramenta de versionamento mais famosa do planeta: o **Git** e a plataforma *Open ( ou não )* **[GitHub](http://www.github.com)** .
 
 >>GitHub é um Serviço de Web Hosting Compartilhado para projetos que usam o controle de versionamento Git. É escrito em Ruby on Rails pelos desenvolvedores da Logical Awesome (Chris Wanstrath, PJ Hyett e Tom Preston - Wernder).
