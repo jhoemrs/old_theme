@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [Jekyll, Git]
 modified: 2016-01-31
 featured: true
-imagefeature: firstcommit/albert-einstein.jpg
+imagefeature: firstcommit/alberteinstein.jpg
 comments: true
 share: true
 ---
