@@ -21,7 +21,10 @@ A maioria dos blogs ou sites do github podem ter seu código acessado, assim sen
 A experiência aqui está me deixando disposto a migrar as minhas antigas postagens para este tipo de estrutura estática.
 
 E o que quero dizer com estrutura estática ?!
-![Jekyll](/storage/emulated/0/Download/unnamed.png)
+<figure>
+	<a href="{{ site.url }}/images/firstcommit/jekyll.png"><img src="{{ site.url }}/images/firstcommit/jekyll.png"></a>
+	<figcaption><a href="https://jekyllrb.com/" data-toggle="tooltip" title="Visite o site do Jekyll">Jekyll</a>.</figcaption>
+</figure>
 Para entender como isso tudo funciona conheça o ** [Jekyll](https://jekyllrb.com/)**
 , abaixo segue a descrição oferecida pelos desenvolvedores para um breve resumo:
 
