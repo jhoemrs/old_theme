@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Instalando Git & "GitHub""
-description: "Como configurar Git na sua Máquina Linux."
-headline: "Linux e Git, amor ao primeiro push"
+title: "O Primeiro Commit !"
+description: "O Primeiro Commit do blog, que virá repleto de informações sobre desenvolvimento e tecnologias."
+headline: "O primeiro commit foi dado, venha conferir !"
 category: Desenvolvimento
-tags: [GitHub, Git]
-modified: 2016-02-01
+tags: [Jekyll, Git]
+modified: 2016-01-31
 featured: true
-imagefeature: gitegithub/gitgithub.jpg
+imagefeature: firstcommit/albert-einstein.jpg
 comments: true
 share: true
 ---
