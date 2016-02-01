@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Está online ! Venha conferir !"
+title: "O Primeiro Commit !"
 description: "O Primeiro Commit do blog, que virá repleto de informações sobre desenvolvimento e tecnologias."
-headline: "O show tem que continuar !"
+headline: "O primeiro commit foi dado, venha conferir !"
 category: Desenvolvimento
 tags: [Jekyll, Git]
 modified: 2016-01-30
