@@ -12,8 +12,6 @@ comments: true
 share: true
 ---
 
-**Como Instalar, Configurar e  o que é ?**
-
 Hoje iniciaremos o aprendizado sobre Git e Github.
 
 De acordo com a **[Documentação do Git](https://git-scm.com/book/pt-br/v1/Git-Essencial-Trabalhando-com-Remotos) **:
