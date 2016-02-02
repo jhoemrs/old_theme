@@ -14,7 +14,7 @@ share: true
 
 **Git** é o nosso assunto de hoje !
 
-No tópico anterior **[Instalando Git e Github](http://jhoemrs.github.io/desenvolvimento/usando-git-github/)** demonstrei uma maneira bem fácil de instalar e ter em sua máquina o Git que é a ferramenta para manipularmos nossos repositórios.  
+No tópico anterior **[Instalando Git e Github](http://jhoemrs.github.io/desenvolvimento/usando-git-github/)** demonstrei uma maneira bem fácil de instalar e ter em sua máquina o Git, que é a ferramenta para manipularmos nossos repositórios.  
 Também foi falado das diferenças entre **Git** e **Github** e o que é cada um.
 
 Além dos 2 comandos de configuração de **user** e **email**, não tivemos um verdadeiro contato com **Git** !
@@ -27,6 +27,7 @@ Mas isso mudará neste momento, o que abordaremos hoje:
 4. **[Commit](https://git-scm.com/docs/git-commit)**
 5. **[Push](https://git-scm.com/docs/git-push)**
 6. **[Pull](https://git-scm.com/docs/git-pull)**
+
 
 Estes 5 comandos básicos do git serão explanados abaixo, o git possui diversos outros que serão assuntos para próximos tópicos.
 
@@ -41,7 +42,7 @@ O comando git init é responsável por inicializar um repositório em branco ou 
 Quando criamos um novo repositório como na imagem abaixo é visível que nos deparamos com o **GIT INIT** como primeiro comando git para um novo repositório em branco.
 
 <figure>
-	<img height="50%" width="50%" src="{{ site.url }}/images/usandogit/repositorionovo.jpeg">
+	<img src="{{ site.url }}/images/usandogit/repositorionovo.jpeg">
 	<figcaption><a data-toggle="tooltip" title="Criando novo repositório.">Novo Repositório no Github</a></figcaption>
 </figure>
 
@@ -56,7 +57,7 @@ git clone LINKDOREPOSITORRIO
 Onde encontrar o **LINKDOREPOSITORIO** ?
 
 <figure>
-	<img height="50%" width="50%" src="{{ site.url }}/images/usandogit/ondeclonar.jpg">
+	<img src="{{ site.url }}/images/usandogit/ondeclonar.jpg">
 	<figcaption><a data-toggle="tooltip" title="Criando novo repositório.">Novo Repositório no Github</a></figcaption>
 </figure>
 
@@ -68,7 +69,7 @@ Git Add
 -------
 {% highlight console %}
 git add NomeDoArquivo.extensao
-or
+OU
 git add -a
 {% endhighlight %}
 
@@ -79,7 +80,7 @@ git add -a
 
 Como diria Jack nosso amigo acima, vamos por partes:
 O comando que contém o NomeDoArquivo.extensao , você estará adicionando ao seu próximo commit apenas aquele arquivo.  
-O comando que contém o -a , é uma abreviação para -all que significa (tudo) ou todos os arquivos, novos ou alterados serão adicionados para o seu próximo commit.
+O comando que contém o -a , é uma abreviação para -all que significa (tudo) ou todos os arquivos, novos ou alterados, serão adicionados para o seu próximo commit.
 
 Imagine o Git Add como um carrinho de compras, e a cada arquivo (ou todos) que você colocar no carrinho, será enviado para o repositório servidor quando você resolver commitar e empurrá-los.
 
@@ -91,9 +92,9 @@ Git Commit
 git commit -m "Mensagem sobre o que se trata seu commit."
 {% endhighlight %}
 
-Cada programador tem suas manias, então o que serve para mim talvez não sirva para você ou sua empresa, o parametro **-m** não é obrigatório, mas sempre é bom você dizer sobre o que aquele **commit** se trata, principalmente se você tiver que consultar suas alterações futuramente, assim como, eu costumo definir um padrão para minhas mensagens como "[DEV] Controller e Entidades" para quando eu estiver construindo controllers e entidades, ou, "[FIX] Controller e Entidades", quando eu estiver corrigindo alguma coisa ou realizando alguma alteração posterior, mas aí vai do gosto de cada um.
+Cada programador tem suas manias, então o que serve para mim talvez não sirva para você ou sua empresa, o parametro **-m** não é obrigatório, porém em minha visão sempre é bom você dizer sobre o que aquele **Commit** se trata, principalmente se você tiver que consultar suas alterações futuramente, eu costumo definir um padrão para minhas mensagens como "[DEV] Controller e Entidades" para quando eu estiver construindo controllers e entidades, ou, "[FIX] Controller e Entidades", quando eu estiver corrigindo alguma coisa ou realizando alguma alteração posterior em controllers e entidades, mas aí vai do gosto de cada um.
 
-Fazendo isso seu **Commit** está com arquivos adicionados, com a mensagem preparada, e pronto para ser enviado para o servidor.
+Fazendo isso seu **Commit** estará com arquivos adicionados, com a mensagem preparada, e pronto para ser enviado para o servidor.
 
 O que nos leva a empurrar este **Commit** para lá com nosso **PUSH** !
 
@@ -103,7 +104,7 @@ Git Push
 git push origin BRANCHDESTINO
 {% endhighlight %}
 
-Falaremos de **BRANCH** em um próximo tópico mas precisamos ao menos ter uma noção do que se trata para realizar a façanha de fazer o **PUSH** para o lugar certo em nosso repositório. Saiba então que seu repositório pode ser dividido em branchs, você pode ter o seu branch master de um produto pronto, testado e sem bugs, e um branch desenvolvimento, que podem estar trabalhando em novas features ainda não testadas, e com bugs, e após conseguirem uma nova versão deste produto, realizarem o **MERGE**( Que também é assunto pra um próximo tópico).
+Falaremos de **BRANCH** em um próximo tópico mas precisamos ao menos ter uma noção do que se trata para realizar a façanha de fazer o **PUSH** para o lugar certo em nosso repositório. Saiba então que seu repositório pode ser dividido em **branchs**, você pode ter o seu **branch master** de um **produto pronto**, testado e sem bugs, e um **branch desenvolvimento**, que podem estar trabalhando em **novas features** ainda não testadas, e com bugs, e após conseguirem uma nova versão deste produto, realizarem o **MERGE** para **unir** os **branchs**( Que também é assunto pra um próximo tópico).
 
 Então escolha bem o branch que estiver trabalhando e jogue seu commit para ele.
 
@@ -111,7 +112,7 @@ Git Pull
 --------
 {% highlight console %}
 git pull
-or
+OU
 git pull origin BRANCHRECEBEDOR
 {% endhighlight %}
 
@@ -122,7 +123,7 @@ O seu trabalho é fazer uma caixa, o do seu amigo é colocar uma cerveja na caix
 
 <figure>
 	<img height="50%" width="50%" src="{{ site.url }}/images/usandogit/caixacerveja.png">
-	<figcaption><a data-toggle="tooltip" title="Cuidado, este é o Jack.">Jack, o Estripador</a></figcaption>
+	<figcaption><a data-toggle="tooltip" title="Uma deliciosa, caixa com cerveja">Ambos fizeram PUSH & PULL</a></figcaption>
 </figure>
 
 O repositório já está criado, você faz sua caixa, adiciona os arquivos, o commita, e faz push para o servidor.  
