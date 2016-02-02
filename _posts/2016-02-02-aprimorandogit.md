@@ -149,14 +149,3 @@ Você não verá a cerveja automaticamente, é necessário você também realiza
 *Siga [@jhoemrs](http://www.twitter.com/jhoemrs) no twitter!*
 
 Obrigado galera e até a próxima !
-
-{% highlight python %}
-print('----------Fibonacci------------')
-valor = int(input("Fibonacci => "))
-a, b = 0, 1
-print(a)
-while b <= valor:
-    print(b)
-    a, b = b, a + b
-print('-------------------------------')
-{% endhighlight %}
