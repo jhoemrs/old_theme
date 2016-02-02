@@ -6,7 +6,7 @@ headline: "Ensinar o mesmo conteúdo para pessoas diferentes? Pode ser necessár
 category: Pessoal
 tags: [Pessoal, Pensamentos]
 modified: 2016-02-03
-featured: true
+featured: false
 imagefeature: istoestasaturado/estasaturado.jpg
 comments: true
 share: true
