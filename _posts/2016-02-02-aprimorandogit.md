@@ -58,7 +58,7 @@ Onde encontrar o **LINKDOREPOSITORIO** ?
 
 <figure>
 	<img src="{{ site.url }}/images/usandogit/ondeclonar.jpg">
-	<figcaption><a data-toggle="tooltip" title="Criando novo repositório.">Novo Repositório no Github</a></figcaption>
+	<figcaption><a data-toggle="tooltip" title="Link para Clonar o Repositorio.">Encontre facilmente o link do Repositorio</a></figcaption>
 </figure>
 
 Ao realizar o **GIT CLONE**, você estará realizando uma cópia do repositório em questão, ou como o nome já diz, uma clonagem.
@@ -149,3 +149,14 @@ Você não verá a cerveja automaticamente, é necessário você também realiza
 *Siga [@jhoemrs](http://www.twitter.com/jhoemrs) no twitter!*
 
 Obrigado galera e até a próxima !
+
+{% highlight python %}
+print('----------Fibonacci------------')
+valor = int(input("Fibonacci => "))
+a, b = 0, 1
+print(a)
+while b <= valor:
+    print(b)
+    a, b = b, a + b
+print('-------------------------------')
+{% endhighlight %}
