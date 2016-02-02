@@ -92,7 +92,7 @@ Git Commit
 git commit -m "Mensagem sobre o que se trata seu commit."
 {% endhighlight %}
 
-Cada programador tem suas manias, então o que serve para mim talvez não sirva para você ou sua empresa, o parametro **-m** não é obrigatório, porém em minha visão sempre é bom você dizer sobre o que aquele **Commit** se trata, principalmente se você tiver que consultar suas alterações futuramente, eu costumo definir um padrão para minhas mensagens como "[DEV] Controller e Entidades" para quando eu estiver construindo controllers e entidades, ou, "[FIX] Controller e Entidades", quando eu estiver corrigindo alguma coisa ou realizando alguma alteração posterior em controllers e entidades, mas aí vai do gosto de cada um.
+Cada programador tem suas manias, então o que serve para mim talvez não sirva para você ou sua empresa, o parametro **-m** é obrigatório ( caso não se passe nenhum argumento "forçando" o contrário ), em minha visão sempre é bom você dizer sobre o que aquele **Commit** se trata, principalmente se você tiver que consultar suas alterações futuramente, eu costumo definir um padrão para minhas mensagens como "[DEV] Controller e Entidades" para quando eu estiver construindo controllers e entidades, ou, "[FIX] Controller e Entidades", quando eu estiver corrigindo alguma coisa ou realizando alguma alteração posterior em controllers e entidades, mas aí vai do gosto de cada um.
 
 Fazendo isso seu **Commit** estará com arquivos adicionados, com a mensagem preparada, e pronto para ser enviado para o servidor.
 
