@@ -1,4 +1,4 @@
-Title:Isso já esta saturado
+Title:Isso já esta Saturado
 
 
 Comecei, a escrever para este blog como iniciativa pessoal, no intuito de ajudar alguém e incentivar as pessoas as compartilharem seus conhecimentos.
@@ -28,4 +28,16 @@ Bom, na minha opinião ele não está certo, porque o novo é relativo, apesar d
 
 Não sou do tipo que escreve sobre o que nunca fiz, apenas com aquele monte de material teórico que você tem que ler 3 , 4 , 1000 vezes pra tentar entender, sou simplista busco ser informal e informativo , ilustrando com histórias e históricos de ocorrências que já me fizeram quebrar a cabeça.
 
-Por exemplo, explicarei brevemente sobre como foi meu aprendizado sobre orientação à objeto, não sou um gênio para entender de primeira e fiquei bem pirado antes de compreender como as coisas funcionavam, mas quando entendi as portas da cognição foram se abrindo e tudo foi se co
+Por exemplo, explicarei brevemente sobre como foi meu aprendizado sobre orientação à objeto, não sou um gênio para entender de primeira e fiquei bem pirado antes de compreender como as coisas funcionavam, mas quando entendi as portas da cognição foram se abrindo e tudo foi se conectando.
+
+E é esta experiência que quero prover aos leitores.
+
+Sendo o assunto então, novo ou não pra você. A utilidade dele é imutavel.
+
+Fica meu conselho então, escreva sobre o que tiver vontade, é uma forma de explanar seu conhecimento, partilhar e possivelmente ajudar alguém.
+
+Seja você, faça
+
+E no mais, aprendizado para você ( escritor ), você conhece pessoas que dominam aquele assunto e te acrescentam com comentários ou criticas.
+
+>> Grandes mentes devem estar prontas não só para agarrar as oportunidades, mas para fazê-las surgir... "Charles Caleb Colton"
