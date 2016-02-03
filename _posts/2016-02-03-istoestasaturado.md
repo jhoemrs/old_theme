@@ -40,7 +40,7 @@ E a famosa Opinião de quem está em cima do muro:
 
 Na minha opinião ele não está certo, porque o novo é relativo, apesar de haver diversos tópicos sobre o mesmo assunto, cada pessoa explica e vê as tecnologias e como elas funcionam de um jeito diferente, e talvez uma dessas explicações funcionem para uma determinada pessoa que nunca viu isto antes e busca aprender, então para ela isto é novo.
 
-Não sou do tipo que escreve sobre o que nunca fiz, apenas com aquele monte de material teórico que você tem que ler 3 , 4 , 1000 vezes pra tentar entender, sou simplista busco ser informal e informativo , ilustrando com histórias e históricos de ocorrências que já me fizeram quebrar a cabeça.
+Não sou do tipo que escreve sobre o que nunca fez, apenas com aquele monte de material teórico que você tem que ler 3 , 4 , 1000 vezes pra tentar entender, sou simplista busco ser informal e informativo , ilustrando com histórias e históricos de ocorrências que já me fizeram quebrar a cabeça.
 
 Por exemplo, explicarei brevemente sobre como foi meu aprendizado sobre orientação à objeto, não sou um gênio para entender de primeira e fiquei bem pirado antes de compreender como as coisas funcionavam, mas quando entendi as portas da cognição foram se abrindo e tudo foi se conectando.
 
