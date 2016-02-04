@@ -15,13 +15,14 @@ share: true
 Olá amigos, em meu antigo blog possuia algumas postagens que gostaria de portar pra esta nova plataforma, e uma delas é esta postagens sobre python e alguns exercícios resolvidos com esta linguagem.
 
 De acordo com **[PyScience](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)**:
->Python é uma linguagem de programação criada por Guido van Rossum em 1991. Os objetivos do projeto da linguagem eram: produtividade e legibilidade. Em outras palavras, Python é uma linguagem que foi criada para produzir código bom e fácil de manter de maneira rápida.
+
+>
+Python é uma linguagem de programação criada por Guido van Rossum em 1991. Os objetivos do projeto da linguagem eram: produtividade e legibilidade. Em outras palavras, Python é uma linguagem que foi criada para produzir código bom e fácil de manter de maneira rápida.
 
 O que mostrarei abaixo são códigos de algoritmos básicos que se quiserem compare com outras linguagens e verão a transparência e inteligibilidade que é o Python.
 
 Todos os exercícios abaixo são algoritmos simples! Não sabe o que é **[Algoritmo](https://pt.wikipedia.org/wiki/Algoritmo)** ?
 
->Resultados da pesquisa
 >
     algoritmo
     substantivo masculino
