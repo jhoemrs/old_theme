@@ -33,16 +33,11 @@ Todos os exercícios abaixo são algoritmos simples! Não sabe o que é **[Algor
 
 1) Faça um programa que peça dois números inteiros e imprima a soma de dois números:
 
-`​`` python
-__author__ = 'Jhonatan Mark'
-#Exercicio 01
+```php
+<?php
 
-print('----Soma de Inteiros----')
-n1=int(input('Primeiro Numero: '))
-n2=int(input('Segundo Numero: '))
-
-print(n1+n2)
-`​``
+echo 'Hello world!';
+```
 
 {% highlight python %}
 __author__ = 'Jhonatan Mark'
