@@ -50,9 +50,9 @@ Não se preocupe por agora com os comandos seguintes, rapidamente veremos todos 
 
 Git Clone
 ---------
-{% highlight console %}
-git clone LINKDOREPOSITORRIO
-{% endhighlight %}
+
+    git clone LINKDOREPOSITORRIO
+
 
 Onde encontrar o **LINKDOREPOSITORIO** ?
 
@@ -67,11 +67,11 @@ Ao clonar um repositório git o mesmo já vira inicializado, **não** sendo **ne
 
 Git Add
 -------
-{% highlight console %}
-git add NomeDoArquivo.extensao
-OU
-git add -a
-{% endhighlight %}
+
+    git add NomeDoArquivo.extensao
+    OU
+    git add -a
+
 
 <figure>
 	<img src="{{ site.url }}/images/usandogit/jackestripador.jpg">
@@ -88,9 +88,9 @@ Seguiremos nesta ordem, após adicionar os arquivos precisamos commitar o que no
 
 Git Commit
 ----------
-{% highlight console %}
-git commit -m "Mensagem sobre o que se trata seu commit."
-{% endhighlight %}
+
+    git commit -m "Mensagem sobre o que se trata seu commit."
+
 
 Cada programador tem suas manias, então o que serve para mim talvez não sirva para você ou sua empresa, o parametro **-m** é obrigatório ( caso não se passe nenhum argumento "forçando" o contrário ), em minha visão sempre é bom você dizer sobre o que aquele **Commit** se trata, principalmente se você tiver que consultar suas alterações futuramente, eu costumo definir um padrão para minhas mensagens como "[DEV] Controller e Entidades" para quando eu estiver construindo controllers e entidades, ou, "[FIX] Controller e Entidades", quando eu estiver corrigindo alguma coisa ou realizando alguma alteração posterior em controllers e entidades, mas aí vai do gosto de cada um.
 
@@ -100,9 +100,9 @@ O que nos leva a empurrar este **Commit** para lá com nosso **PUSH** !
 
 Git Push
 --------
-{% highlight console %}
-git push origin BRANCHDESTINO
-{% endhighlight %}
+
+    git push origin BRANCHDESTINO
+
 
 Falaremos de **BRANCH** em um próximo tópico mas precisamos ao menos ter uma noção do que se trata para realizar a façanha de fazer o **PUSH** para o lugar certo em nosso repositório. Saiba então que seu repositório pode ser dividido em **branchs**, você pode ter o seu **branch master** de um **produto pronto**, testado e sem bugs, e um **branch desenvolvimento**, que podem estar trabalhando em **novas features** ainda não testadas, e com bugs, e após conseguirem uma nova versão deste produto, realizarem o **MERGE** para **unir** os **branchs**( Que também é assunto pra um próximo tópico).
 
@@ -110,11 +110,11 @@ Então escolha bem o branch que estiver trabalhando e jogue seu commit para ele.
 
 Git Pull
 --------
-{% highlight console %}
-git pull
-OU
-git pull origin BRANCHRECEBEDOR
-{% endhighlight %}
+
+    git pull
+    OU
+    git pull origin BRANCHRECEBEDOR
+
 
 Pouco provável grandes projetos de programação serem feitos sozinhos, pessoas, ou até mesmo times estarão trabalhando ao mesmo tempo no projeto em várias features diferentes, e todas elas no mesmo repositório.
 
@@ -127,22 +127,22 @@ O seu trabalho é fazer uma caixa, o do seu amigo é colocar uma cerveja na caix
 </figure>
 
 O repositório já está criado, você faz sua caixa, adiciona os arquivos, o commita, e faz push para o servidor.  
-{% highlight console %}
-git add caixa.box
-git commit -m "[DEV] Caixa e seu compartimento."
-git push origin master
-{% endhighlight %}
+
+    git add caixa.box
+    git commit -m "[DEV] Caixa e seu compartimento."
+    git push origin master
+
 
 Neste momento, seu amigo ainda não sabe que sua caixa está pronta, para receber esta caixa no código dele, ele precisa realizar um **PULL**, assim realizará toda a atualização do projeto conforme o último commit no servidor, no caso o seu.
 
 Ao realizar o **PULL** e ver sua caixa, ele realiza seu trabalho e coloca a cerveja.
 Para enviar a cerveja pro servidor seu amigo realizará :
 
-{% highlight console %}
-git add cervejeiro.beer
-git commit -m "[DEV] Cerveja e seus beneficios."
-git push origin master
-{% endhighlight %}
+
+    git add cervejeiro.beer
+    git commit -m "[DEV] Cerveja e seus beneficios."
+    git push origin master
+
 
 Você não verá a cerveja automaticamente, é necessário você também realizar um **PULL** após ele ter commitado para o servidor, após realizar ambos estarão com a caixa e a cerveja em seus códigos.
 
