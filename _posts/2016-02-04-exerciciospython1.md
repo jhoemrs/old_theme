@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python - Lista Iniciante!"
+title: "Python - Lista Iniciante"
 description: "Como resolver simples algoritmos em Python."
 headline: "Nunca viu um código em Python? Venha conferir, e aprender algoritmos."
 category: Desenvolvimento
@@ -32,12 +32,6 @@ Todos os exercícios abaixo são algoritmos simples! Não sabe o que é **[Algor
         inf conjunto das regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema em um número finito de etapas.
 
 1) Faça um programa que peça dois números inteiros e imprima a soma de dois números:
-
-```php
-<?php
-
-echo 'Hello world!';
-```
 
 {% highlight python %}
 __author__ = 'Jhonatan Mark'
