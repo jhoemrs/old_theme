@@ -52,6 +52,24 @@ Todos os exercícios abaixo são algoritmos simples! Não sabe o que é **[Algor
 </html>
 {% endhighlight %}
 
+{%highlight ruby %}
+class Employee < Person
+  def initialize(fname, lname, position)
+    super(fname,lname)
+    @position = position
+  end
+  def to_s
+     super + ", #@position"
+  end
+  attr_writer :position
+end
+employee = Employee.new("Augustus","Bondi","CFO")
+puts employee
+puts employee.fname
+employee.position = "CEO"
+puts employee
+{% endhighlight %}
+
 {% highlight python %}
 __author__ = 'Jhonatan Mark'
 #Exercicio 01
