@@ -33,61 +33,11 @@ Todos os exercícios abaixo são algoritmos simples! Não sabe o que é **[Algor
 
 1) Faça um programa que peça dois números inteiros e imprima a soma de dois números:
 
-{% highlight php %}
-<?php
-    echo "Hello World";
-    echo "\n";
-?>
+{% highlight %}
+git clone
+sudo apt-get install clone
 {% endhighlight %}
 
-{% highlight html %}
-<!DOCTYPE html>
-<html>
-    <head>
-        <!--conteudo do head-->
-    </head>
-    <body>
-        <!--conteudo do body-->
-    </body>
-</html>
-{% endhighlight %}
-
-{%highlight ruby %}
-class Employee < Person
-  def initialize(fname, lname, position)
-    super(fname,lname)
-    @position = position
-  end
-  def to_s
-     super + ", #@position"
-  end
-  attr_writer :position
-end
-employee = Employee.new("Augustus","Bondi","CFO")
-puts employee
-puts employee.fname
-employee.position = "CEO"
-puts employee
-{% endhighlight %}
-{%highlight css %}
-h3 small {
-  font-size: 13px;
-}
-h4,
-h5,
-h6 {
-  line-height: 24px;
-}
-h4 {
-  margin-top: 24px;
-  margin-bottom: 16px;
-  font-size: 16px;
-  text-transform: uppercase;
-}
-h4 small {
-  font-size: 16px;
-}
-{% endhighlight %}
 
 {% highlight python %}
 __author__ = 'Jhonatan Mark'
