@@ -50,25 +50,25 @@ Simples assim, caso queira usar Ruindows para programar arrume uma máquina virt
 
 Primeiro atualize o seu repositório de aplicações com o famoso:
 
-{% highlight console %}
-sudo apt-get update
-{% endhighlight %}
+
+    sudo apt-get update
+
 
 Em seguida, basta selecionar o Git e instalar:
 
-{% highlight console %}
-sudo apt-get install git
-{% endhighlight %}
+
+    sudo apt-get install git
+
 
 Após isso, o Git já estará instalado em seu sistema. Se bem me lembro, há uma configuração inicial que deve ser feita para setar nome e email :
 
-{% highlight console %}
-git config --global user.name " Seu Nome"
-{% endhighlight %}
 
-{% highlight console %}
-git config --global user.email "Seu Email"
-{% endhighlight %}
+    git config --global user.name " Seu Nome"
+
+
+
+    git config --global user.email "Seu Email"
+
 
 Em sequência, teremos devidamente configurado um ambiente com Git .
 
