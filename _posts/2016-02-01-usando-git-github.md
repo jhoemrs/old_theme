@@ -64,9 +64,6 @@ Após isso, o Git já estará instalado em seu sistema. Se bem me lembro, há um
 
 
     git config --global user.name " Seu Nome"
-
-
-
     git config --global user.email "Seu Email"
 
 
