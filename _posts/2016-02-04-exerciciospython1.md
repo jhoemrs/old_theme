@@ -69,6 +69,25 @@ puts employee.fname
 employee.position = "CEO"
 puts employee
 {% endhighlight %}
+{%highlight css %}
+h3 small {
+  font-size: 13px;
+}
+h4,
+h5,
+h6 {
+  line-height: 24px;
+}
+h4 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+h4 small {
+  font-size: 16px;
+}
+{% endhighlight %}
 
 {% highlight python %}
 __author__ = 'Jhonatan Mark'
