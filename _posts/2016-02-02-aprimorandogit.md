@@ -33,9 +33,9 @@ Estes 5 comandos básicos do git serão explanados abaixo, o git possui diversos
 
 Git Init
 --------
-{% highlight console %}
-git init
-{% endhighlight %}
+
+    git init
+
 
 O comando git init é responsável por inicializar um repositório em branco ou reinicializar algum já existente.
 
