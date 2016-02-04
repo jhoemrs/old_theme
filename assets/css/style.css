@@ -3270,7 +3270,7 @@ p code,li code {
     padding: 0 5px;
     margin: 0 2px;
     white-space: nowrap;
-    background-color: #49483e;
+    background-color: #f2f2f2;
     border: 1px solid #e6e6e6;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -4048,3 +4048,4 @@ body.slide{
 
 
 /*      End-Responsive      */
+.highlight .hll { background-color: #49483e }
