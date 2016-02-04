@@ -33,12 +33,6 @@ Todos os exercícios abaixo são algoritmos simples! Não sabe o que é **[Algor
 
 1) Faça um programa que peça dois números inteiros e imprima a soma de dois números:
 
-{% highlight %}
-git clone
-sudo apt-get install clone
-{% endhighlight %}
-
-
 {% highlight python %}
 __author__ = 'Jhonatan Mark'
 #Exercicio 01
