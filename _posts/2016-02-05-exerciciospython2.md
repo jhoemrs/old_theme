@@ -69,7 +69,7 @@ multa = 0
 
 if peso > 50:
     excesso = peso - 50
-    multa = float(excesso *4)
+    multa = float(excesso x 4)
     print('Deverá pagar o valor de R${:.2f} de multa.'.format(multa))
 elif peso < 0:
     print('Valor inserido Inválido.')
