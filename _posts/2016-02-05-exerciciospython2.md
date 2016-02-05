@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Python - 2ª Lista Iniciante"
-description: "Como resolver simples algoritmos em Python."
-headline: "Nunca viu um código em Python? Venha conferir, e aprender algoritmos."
+description: "2ª Lista de Python - Como resolver simples algoritmos em Python."
+headline: "Resolva Algoritmos Simples com Python."
 category: Desenvolvimento
 tags: [Python, Exercicios]
 modified: 2016-02-05
