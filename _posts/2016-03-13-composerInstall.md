@@ -54,7 +54,7 @@ Logo após precisamos move-lo para ser chamado globalmente, execute:
 
 Logo após move-lo para a pasta /bin/ poderemos fazer sua chamada.
 Já não é mais necessário colocar o php antes, podendo ser chamado diretamente.
-```console
+```php
 composer.phar
 ```
 
