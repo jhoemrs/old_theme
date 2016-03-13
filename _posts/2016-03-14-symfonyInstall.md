@@ -55,7 +55,7 @@ Este segundo comando tornará o symfony Executável.
 Sendo assim só executar **symfony** de qualquer lugar no console que chamará o instalador do symfony, como mostrado abaixo:
 <figure>
 	<img src="{{ site.url }}/images/postagens/symfonyInstall/chamadaSymfony.png">
-	<figcaption><a data-toggle="tooltip" title=Symfony Installer">Comandos Symfony</a></figcaption>
+	<figcaption><a data-toggle="tooltip" title="Symfony Installer">Comandos Symfony</a></figcaption>
 </figure>
 
 Sendo assim já temos o Symfony pronto para iniciarmos um novo projeto !
