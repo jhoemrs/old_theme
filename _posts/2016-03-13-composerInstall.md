@@ -39,7 +39,7 @@ Ao chamar este comando verá a lista de opções que ele te trará:
 	<figcaption><a data-toggle="tooltip" title="Chamada do Composer">Lista de Possiveis Comandos</a></figcaption>
 </figure>
 
-Você tem este arquivo numa pasta e tem que chama-lo diretamente, o que é uma chatice, então como proceder para ele estar disponivel em qualquer lugar na sua máquina, em qualquer pasta, bom tornaremos ele este comando possível.
+Você tem este arquivo numa pasta e tem que chama-lo diretamente, o que é uma chatice, então como proceder para ele estar disponivel em qualquer lugar na sua máquina, em qualquer pasta, bom tornaremos este comando possível Globalmente.
 
 Para isso execute os seguintes passos na pasta onde está localizado seu *composer.phar*:
 {% highlight ruby %}
