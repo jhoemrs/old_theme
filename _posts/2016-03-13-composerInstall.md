@@ -54,9 +54,9 @@ Logo após precisamos move-lo para ser chamado globalmente, execute:
 
 Logo após move-lo para a pasta /bin/ poderemos fazer sua chamada.
 Já não é mais necessário colocar o php antes, podendo ser chamado diretamente.
-{% highlight python %}
+```console
 composer.phar
-{% endhighlight %}
+```
 
 Sendo assim temos nosso composer disponivel para qualquer projeto em qualquer pasta e momento.
 Então se você tem vários projetos não é necessário baixar 1 composer para cada !
