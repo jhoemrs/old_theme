@@ -7,7 +7,7 @@ category: Pessoal
 tags: [Pensamentos]
 modified: 2016-03-15
 featured: no
-imagefeature: postagens/preguicaDePensar/topBar.jpg
+imagefeature: postagens/preguicaDePensar/topbar.jpg
 comments: true
 share: true
 ---
