@@ -29,7 +29,7 @@ Bom código não é apenas o necessário.
 
 E um bom programador não é só um bom código.
 <figure>
-	<img src="{{ site.url }}/images/postagens/preguicaDePensar/antolho.jpg">
+	<img height="50%" width="50%" src="{{ site.url }}/images/postagens/preguicaDePensar/antolho.jpg">
 	<figcaption><a data-toggle="tooltip" title="Tire isso do seu rosto !">Aprenda a Pensar !</a></figcaption>
 </figure>
 Conheço excelentes codificadores que tem alta produtividade, mas não considero um bom programador por causa de sua mente fechada.
