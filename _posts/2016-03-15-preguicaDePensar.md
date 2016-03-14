@@ -44,6 +44,7 @@ Imagine tudo isto em um ambiente/projeto desorganizado, não há regras bem defi
 Não me considero um exclente programador, ainda estou longe disso, tenho muito a percorrer, mas todos sabemos qual caminho não seguir, e quando não sabemos basta observar calmamente e raciocinar se está funcionando ou não.
 
 Porque claramente há alguns passos básicos para ser um bom programador:
+
 +Buscar em diversas fontes ( Ajuda muito o inglês nestas horas )
 +Aprender e Executar coisas novas frequentemente
 +Trabalhar em Problemas Lógicos
