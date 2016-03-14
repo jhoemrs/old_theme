@@ -1,6 +1,21 @@
-##Não tenha preguiça de pensar.
+---
+layout: post
+title: "Preguiça de Pensar"
+description: "Seja melhor Desenvolvedor, Pense!"
+headline: "Aprenda a pensar, e não siga apenas os velhos métodos!"
+category: Pessoal
+tags: [Pensamentos]
+modified: 2016-03-15
+featured: no
+imagefeature: postagens/preguicaDePensar/topBar.jpg
+comments: true
+share: true
+---
 
-Hoje estávamos debatendo como é dificil mudar um paradigma da sociedade, ou apenas implantar uma dúvida, são poucos aqueles que se dispõe a pensar sobre o assunto, a aceitar possibilidades.
+Não tenha preguiça de pensar.
+============================
+
+Hoje estávamos debatendo em meu trabalho como é dificil mudar um paradigma da sociedade, ou apenas implantar uma dúvida, são poucos aqueles que se dispõe a pensar sobre o assunto, a aceitar possibilidades.
 
 Isso também é visto em muitos desenvolvedores.
 
@@ -35,8 +50,14 @@ Porque claramente há alguns passos básicos para ser um bom programador:
 > - Paciência
 > - E o mais óbvio de todos PENSAR !
 
+<figure>
+	<img src="{{ site.url }}/images/postagens/preguicaDePensar/speakEnglish.jpg">
+	<figcaption><a data-toggle="tooltip" title="Inglês é Necessário!">Aprenda a entender Inglês!</a></figcaption>
+</figure>
+Gostaria de falar mais sobre a importância de aprender inglês para o programador, mas é quase uma consequência de se programar, então vivencie e entenda o inglês, é indispensável !
+
 Eu, gosto de também ensinar enquanto aprendo, acho que me ajuda muito a internalizar tudo e as vezes são leventadas dúvidas, que eu não sabia ou adicionado conhecimento, então é muito bom para meu crescimento.
 
-Bom, tornar um bom desenvolvedor/programador é uma tarefa diária, complicada e exaustiva, eu não citei quase nada do que é preciso, há muito mais para se aprender, mas como um bom ser humano, seja solícito/atencioso e devagar vamos caminhando passo a passo para o crescimento pessoal e consequentemente profissional.
+Bom, tornar um bom desenvolvedor/programador é uma tarefa diária, complicada e exaustiva, eu não citei quase nada do que é preciso, há muito mais para se aprender, mas como um bom ser humano, seja solícito/atencioso e devagar vamos caminhando passo a passo para o crescimento pessoal e consequentemente profissional e melhoria contínua.
 
 Forte Abraço!
