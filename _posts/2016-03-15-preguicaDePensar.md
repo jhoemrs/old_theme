@@ -47,9 +47,13 @@ Porque claramente há alguns passos básicos para ser um bom programador:
 
 >
 Buscar em diversas fontes ( Ajuda muito o inglês nestas horas )
+>
 Aprender e Executar coisas novas frequentemente
+>
 Trabalhar em Problemas Lógicos
+>
 Paciência
+>
 E o mais óbvio de todos PENSAR !
 
 <figure>
