@@ -19,7 +19,7 @@ Já temos nosso **[SYMFONY](http://jhoemrs.github.io/desenvolvimento/symfonyInst
 
 Sempre utilizei desde que comecei a aprender o Symfony a versão 2.* porém para acompanhar a evolução estarei aprendendo e buscando com vocês as mudanças do Symfony 3 !
 
-Escolha uma pasta guardiã do seu projeto, e vamos chamado o seguinte comando :
+Escolha uma pasta que será alocado o seu projeto, e vamos chamar o seguinte comando :
 {% highlight ruby %}
 symfony new blog
 {% endhighlight %}
