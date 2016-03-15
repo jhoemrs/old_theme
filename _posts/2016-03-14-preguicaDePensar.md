@@ -5,7 +5,7 @@ description: "Seja melhor Desenvolvedor, Pense!"
 headline: "Aprenda a pensar, e não siga apenas os velhos métodos!"
 category: Pessoal
 tags: [Pensamentos]
-modified: 2016-03-15
+modified: 2016-03-14
 featured: no
 imagefeature: postagens/preguicaDePensar/topbar.jpg
 comments: true

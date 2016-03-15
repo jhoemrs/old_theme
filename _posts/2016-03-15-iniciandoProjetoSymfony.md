@@ -1,16 +1,16 @@
-
+---
 layout: post
 title: "Iniciando Projeto Symfony"
 description: "Começando um Projeto Symfony"
 headline: "Aprenda a iniciar o Projeto Symfony !"
 category: Desenvolvimento
 tags: [Symfony]
-modified: 2016-03-16
+modified: 2016-03-15
 featured: yes
 imagefeature: postagens/iniciandoProjetoSymfony/topBar.png
 comments: true
 share: true
-
+---
 
 Como Iniciar um Projeto em Symfony
 ==================================
