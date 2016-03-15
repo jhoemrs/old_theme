@@ -13,7 +13,7 @@ share: true
 ---
 
 
-Comecei, a escrever para este blog como iniciativa pessoal, no intuito de ajudar alguém e incentivar as pessoas as compartilharem seus conhecimentos.
+Comecei a escrever para este blog como iniciativa pessoal, no intuito de ajudar alguém e incentivar as pessoas as compartilharem seus conhecimentos.
 
 As duas primeiras postagens do blog foram sobre Git que podem ser conferidas **[AQUI (Instalação)](http://jhoemrs.github.io/desenvolvimento/usando-git-github)** e **[AQUI (Aprimoramento)](http://jhoemrs.github.io/desenvolvimento/aprimorandogit)** .
 
