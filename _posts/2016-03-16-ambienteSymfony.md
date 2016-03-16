@@ -12,9 +12,6 @@ comments: true
 share: true
 ---
 
-Ambiente e Ambientando-se com Symfony !
-=======================================
-
 Um dos maiores trunfos do Symfony é sua organização, você ter uma organização padrão de pastas separadas em Bundles, ajuda e muito em projetos grandes, além da sua maior capacidade de componentizar as coisas.
 
 Já iniciamos nosso projeto, como você pode ver **[NESTE POST](http://jhoemrs.github.io/desenvolvimento/iniciandoProjetoSymfony)** !
