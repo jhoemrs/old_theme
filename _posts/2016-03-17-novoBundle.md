@@ -30,8 +30,8 @@ Primeiro vamos limpar o Bundle que já veio com nosso projeto.
 Para limpar o Bundle antigo apague-o do AppKernel e exclua as duas pastas AppBundle que estão selecionadas também na imagem acima, o próximo passo é limpar nosso routing.yml conforme imagem abaixo.
 
 <figure class="half">
-	<a href="{{ site.url }}/images/postagens/novoBundle/routingSujo.png"><img src="{{ site.url }}/images/novoBundle/routingSujo.png"></a>
-	<a href="{{ site.url }}/images/postagens/novoBundle/routingLimpo.png"><img src="{{ site.url }}/images/novoBundle/routingLimpo.png"></a>
+	<a href="{{ site.url }}/images/postagens/novoBundle/routingSujo.png"><img src="{{ site.url }}/images/postagens/novoBundle/routingSujo.png"></a>
+	<a href="{{ site.url }}/images/postagens/novoBundle/routingLimpo.png"><img src="{{ site.url }}/images/postagens/novoBundle/routingLimpo.png"></a>
 </figure>
 
 Agora abrimos o terminal e acessaremos a pasta de nosso projeto.
