@@ -88,8 +88,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://jhoemrs.github.io/'
-  relativeLinks: 'http://jhoemrs.github.io/links.jsonp'
+  siteurl: 'http://guiaprogramador.com.br/'
+  relativeLinks: 'http://guiaprogramador.com.br/links.jsonp'
   media: 'images'
   metadata:
     _posts:
