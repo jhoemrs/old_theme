@@ -32,6 +32,7 @@ Para limpar o Bundle antigo apague-o do AppKernel e exclua as duas pastas AppBun
 <figure class="half">
 	<a href="{{ site.url }}/images/postagens/novoBundle/routingSujo.png"><img src="{{ site.url }}/images/postagens/novoBundle/routingSujo.png"></a>
 	<a href="{{ site.url }}/images/postagens/novoBundle/routingLimpo.png"><img src="{{ site.url }}/images/postagens/novoBundle/routingLimpo.png"></a>
+	<figcaption><a data-toggle="tooltip" title="Apague Tudo">Routing Sujo | Routing Limpo</a></figcaption>
 </figure>
 
 Agora abrimos o terminal e acessaremos a pasta de nosso projeto.
