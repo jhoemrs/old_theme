@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [Symfony]
 modified: 2016-03-17
 featured: yes
-imagefeature: postagens/novoBundle/symfonyTopBar.png
+imagefeature: postagens/novoBundle/symfonytopbar.png
 comments: true
 share: true
 ---
