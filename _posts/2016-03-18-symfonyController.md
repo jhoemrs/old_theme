@@ -59,7 +59,7 @@ class DefaultController extends Controller
 }
 {% endhighlight %}
 
-Repare que adicionamos **Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;** no começo de nosso código, sendo assim já podemos utilizar o **@Template()** tranquilamente.
+Repare que adicionamos **use** diferente no começo de nosso código, sendo assim já podemos utilizar o **@Template()** tranquilamente.
 Já podemos retirar todo o **$this->render()** , já que o @Template identifica qual é a view que deve ser renderizada de acordo com o nome do nosso Controller e nossa função no Controller.
 Por exemplo , nossa view está localizada aqui:
 
@@ -72,7 +72,10 @@ Perceba que ela se encontra dentro da pasta **Default** , o que se relaciona dir
 
 **Importante**: As funções do Controller sempre terminam com Action, até hoje ainda não vi casos em que não se utilize este padrão, se há, ainda preciso aprender ;) !
 
-Após esta enxugada no código, preciso salientar caso você não siga o padrão do nome de pasta e função no nome da view, você pode dentro do **@Template()** chamar a view que deverá ser renderizada, como por exemplo **@Template("SensioBlogBundle:Post:show.html.twig")**.
+Após esta enxugada no código, preciso salientar caso você não siga o padrão do nome de pasta e função no nome da view, você pode dentro do **@Template()** chamar a view que deverá ser renderizada, como por exemplo :
+{% highlight php %}
+@Template("SensioBlogBundle:Post:show.html.twig")
+{% endhighlight %}
 
 Dando sequência as nossas atividades, agora veremos como um controller pode mandar valores para sua View ou para os não acostumados com o termo seu HTML/TWIG.
 **TWIG** é o framework Front-End, então se me referir à algum deles já sabem !
