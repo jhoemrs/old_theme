@@ -24,7 +24,8 @@ Este é o nosso Controller atual:
 	<figcaption><a data-toggle="tooltip" title="Como nós deixamos na última aula.">Controller Inicial</a></figcaption>
 </figure>
 
-Primeira percepção que temos que ter é que muita coisa no Symfony pode e irá ser feita nos comentários das funções, sendo assim analisaremos o primeiro **@Route("/")** , como o nome já diz essa é a nossa rota, se alterarmos seu valor, devemos alterar também a url que será acessada, pois se mudarmos por exemplo para **@Route("/teste")** e acessarmos o endereço "/" veremos a seguinte tela de erro:
+Primeira percepção que temos que ter é que muita coisa no Symfony pode e irá ser feita nos comentários das funções, sendo assim analisaremos o primeiro **@Route("/")** .
+Como o nome já diz essa é a nossa rota, se alterarmos seu valor, devemos alterar também a url que será acessada, pois se mudarmos por exemplo para **@Route("/teste")** e acessarmos o endereço "/" veremos a seguinte tela de erro:
 
 <figure>
 	<img src="{{ site.url }}/images/postagens/symfonyController/noRouteFound.png">
@@ -33,7 +34,8 @@ Primeira percepção que temos que ter é que muita coisa no Symfony pode e irá
 
 **Symfony** é amigável com seus erros, mas fuja deste Fantasma, literalmente !
 
-Agora quero ensinar a vocês sobre o **@Template()** que vem do nosso **SensioFrameworkExtraBundle** , ele facilitará muito nosso trabalho no intuito de ligar o **Contoller** ao nosso **Html/Twig**, teremos que mudar algumas coisas em nosso controller, que ficará exatemente, assim:
+Agora quero ensinar a vocês sobre o **@Template()** que vem do nosso **SensioFrameworkExtraBundle**.
+Ele facilitará muito nosso trabalho no intuito de ligar o **Contoller** ao nosso **Html/Twig**, teremos que mudar algumas coisas em nosso controller, que ficará exatemente, assim:
 
 {% highlight php %}
 <?php
@@ -58,9 +60,8 @@ class DefaultController extends Controller
 {% endhighlight %}
 
 Repare que adicionamos **Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;** no começo de nosso código, sendo assim já podemos utilizar o **@Template()** tranquilamente.
-Agora já podemos retirar todo o **$this->render()** , já que o @Template identifica qual é a view que deve ser renderizada de acordo com o nome do nosso Controller e nossa função no Controller.
-Por exemplo:
-Nossa view está localizada aqui:
+Já podemos retirar todo o **$this->render()** , já que o @Template identifica qual é a view que deve ser renderizada de acordo com o nome do nosso Controller e nossa função no Controller.
+Por exemplo , nossa view está localizada aqui:
 
 <figure>
 	<img src="{{ site.url }}/images/postagens/symfonyController/localizacaoView.png">
@@ -73,8 +74,8 @@ Perceba que ela se encontra dentro da pasta **Default** , o que se relaciona dir
 
 Após esta enxugada no código, preciso salientar caso você não siga o padrão do nome de pasta e função no nome da view, você pode dentro do **@Template()** chamar a view que deverá ser renderizada, como por exemplo **@Template("SensioBlogBundle:Post:show.html.twig")**.
 
-Dando sequência as nossas atividades, agora veremos como um controller pode mandar valores para sua View ou para não acostumados com o termo seu HTML/TWIG.
-**TWIG** é o framework Front-End(), então se me referir à algum deles já sabem !
+Dando sequência as nossas atividades, agora veremos como um controller pode mandar valores para sua View ou para os não acostumados com o termo seu HTML/TWIG.
+**TWIG** é o framework Front-End, então se me referir à algum deles já sabem !
 
 Vamos alterar nosso **indexAction**:
 {% highlight php %}
@@ -93,9 +94,10 @@ public function indexAction()
 }
 {% endhighlight %}
 
-Se atualizarmos nossa página agora, veremos ainda o mesmo **HELLO WORLD** de sempre, perceba então que mandamos para nossa view 'pessoa' mas como utilizar fazer aparecer o **'Aprendiz de Symfony'** lá dentro de minha view ?
+Se atualizarmos nossa página agora, veremos ainda o mesmo **HELLO WORLD** de sempre, perceba então que mandamos para nossa view 'pessoa' mas como utilizar???
+Como fazer aparecer o **'Aprendiz de Symfony'** lá dentro de minha view ?
 
-Utilizaremos o comando twig **{{}}** , então nossa view ficará assim:
+Utilizaremos o comando **[TWIG](http://twig.sensiolabs.org/documentation)** , então nossa view ficará assim:
 
 <figure>
 	<img src="{{ site.url }}/images/postagens/symfonyController/twigAtributo.png">
@@ -109,6 +111,6 @@ Ao atualizarmos agora nossa página:
 	<figcaption><a data-toggle="tooltip" title="Bem Vindo Aprendiz.">Tudo Ok!</a></figcaption>
 </figure>
 
-Finalizaremos por hoje! Espero que tenham entendido um pouco mais de como funciona um Controller, e como ele envia um simples dado para uma view, também podemos aprender como utilizar o ExtraBundle @Template() !
+Finalizaremos por hoje! Espero que tenham entendido um pouco mais de como funciona um Controller, e como ele envia um simples dado para uma view, também aprendemos como utilizar o ExtraBundle @Template() !
 
 Forte Abraço!
