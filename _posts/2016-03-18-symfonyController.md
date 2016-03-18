@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Symfony Contoller"
+title: "Symfony Controller"
 description: "Desvende o Controller do Symfony"
 headline: "Aprenda como utilizar e o que é o Controller do Symfony"
 category: Desenvolvimento
