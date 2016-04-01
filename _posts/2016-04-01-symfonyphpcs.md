@@ -24,7 +24,7 @@ Por isso precisamos de padrões de código, para manter um código bem escrito e
 
 Os Padrões de Código Definem:
 
-  > Identação do Código  
+  > Indentação do Código  
   >  Conveção de nomenclatura  
   >  Espaços em Branco  
   >  Padrão de Comentários  
