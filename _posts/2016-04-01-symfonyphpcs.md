@@ -24,10 +24,10 @@ Por isso precisamos de padrões de código, para manter um código bem escrito e
 
 Os Padrões de Código Definem:
 > Identação do Código  
- Conveção de nomenclatura  
- Espaços em Branco  
- Padrão de Comentários  
- Etc...  
+>  Conveção de nomenclatura  
+>  Espaços em Branco  
+>  Padrão de Comentários  
+>  Etc...  
 
 Assim sendo, padrões de código definem um código com qualidade, legibilidade, assim como reduzem custo de manutenção.
 
