@@ -37,7 +37,7 @@ O `Php Code Sniffer` é um módulo da biblioteca `PEAR`, que possui um "Script" 
 Para inicio de conversa precisamos ter o `PEAR` instalado execute:
 
 {% highlight ruby %}
-sudo apt-get install php-ruby
+sudo apt-get install php-pear
 {% endhighlight %}
 
 Agora vamos para a parte do `CodeSniffer` propriamente dita.
