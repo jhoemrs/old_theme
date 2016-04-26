@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [Symfony]
 modified: 2016-04-01
 featured: yes
-imagefeature: postagens/symfonyphpcs/elefante.jpg
+imagefeature: postagens/symfonyphpcs/symfonyphpcs.svg
 comments: true
 share: true
 ---

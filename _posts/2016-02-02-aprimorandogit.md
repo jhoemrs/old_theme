@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [GitHub, Git]
 modified: 2016-04-02
 featured: true
-imagefeature: usandogit/gitninja.jpg
+imagefeature: postagens/usandogit/usandogit.svg
 comments: true
 share: true
 ---

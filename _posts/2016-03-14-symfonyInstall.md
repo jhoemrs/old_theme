@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [Symfony]
 modified: 2016-03-14
 featured: yes
-imagefeature: postagens/symfonyInstall/SymfonyTopBar.jpg
+imagefeature: postagens/symfonyInstall/symfonyInstall.svg
 comments: true
 share: true
 ---

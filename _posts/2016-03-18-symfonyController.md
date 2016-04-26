@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [Symfony]
 modified: 2016-03-18
 featured: yes
-imagefeature: postagens/symfonyController/topController.jpg
+imagefeature: postagens/symfonyController/symfonyController.svg
 comments: true
 share: true
 ---

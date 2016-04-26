@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [Symfony]
 modified: 2016-03-16
 featured: yes
-imagefeature: postagens/ambienteSymfony/symfonyLogo.png
+imagefeature: postagens/ambienteSymfony/ambienteSymfony.svg
 comments: true
 share: true
 ---

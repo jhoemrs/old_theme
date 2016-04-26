@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [Python, Exercicios]
 modified: 2016-02-04
 featured: false
-imagefeature: listapython1/python1.jpg
+imagefeature: postagens/listapython1/listapython1.svg
 comments: true
 share: true
 ---

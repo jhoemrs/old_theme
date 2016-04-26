@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [Symfony]
 modified: 2016-03-15
 featured: yes
-imagefeature: postagens/iniciandoProjetoSymfony/topBar.png
+imagefeature: postagens/iniciandoProjetoSymfony/iniciandoProjetoSymfony.svg
 comments: true
 share: true
 ---

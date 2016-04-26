@@ -7,7 +7,7 @@ category: Pessoal
 tags: [Pessoal, Pensamentos]
 modified: 2016-02-03
 featured: false
-imagefeature: istoestasaturado/estasaturado.jpg
+imagefeature: postagens/istoestasaturado/istoestasaturado.svg
 comments: true
 share: true
 ---

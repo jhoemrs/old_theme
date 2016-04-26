@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [Symfony, Composer]
 modified: 2016-03-13
 featured: yes
-imagefeature: postagens/composerInstall/composer.jpg
+imagefeature: postagens/composerInstall/composerInstall.svg
 comments: true
 share: true
 ---

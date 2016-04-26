@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [GitHub, Git]
 modified: 2016-02-01
 featured: true
-imagefeature: gitegithub/gitgithub.jpg
+imagefeature: postagens/gitegithub/gitegithub.svg
 comments: true
 share: true
 ---
