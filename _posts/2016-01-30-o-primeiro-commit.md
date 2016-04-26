@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [Jekyll, Git]
 modified: 2016-01-31
 featured: true
-imagefeature: svg/postagens/firstcommit/firstcommit.svg
+imagefeature: postagens/firstcommit/firstcommit.svg
 comments: true
 share: true
 ---
