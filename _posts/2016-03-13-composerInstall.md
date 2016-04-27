@@ -19,7 +19,7 @@ Já aprendemos o básico sobre git, e logo iniciaremos algumas postagens sobre S
 Eis então o Composer:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/composerInstall/composerLogo.png">
+	<img src="{{ site.url }}/images/bancoPostagens/composerInstall/composerLogo.png">
 	<figcaption><a href="https://getcomposer.org/download/" data-toggle="tooltip" title="Eis o Maestro">Clique aqui para Download !</a></figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Quando você faz este procedimento de Download, você tem na pasta em que execut
 Ao chamar este comando verá a lista de opções que ele te trará:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/composerInstall/chamadaComposer.png">
+	<img src="{{ site.url }}/images/bancoPostagens/composerInstall/chamadaComposer.png">
 	<figcaption><a data-toggle="tooltip" title="Chamada do Composer">Lista de Possiveis Comandos</a></figcaption>
 </figure>
 

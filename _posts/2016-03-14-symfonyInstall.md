@@ -17,7 +17,7 @@ Hoje mostrarei como é simples instalar e deixar o Symfony disponivel para o lin
 Assim como o composer o Symfony tem algumas instruções para instalar e deixa-lo funcionando:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyInstall/comoInstalar.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyInstall/comoInstalar.png">
 	<figcaption><a href="https://symfony.com/download" data-toggle="tooltip" title="Symfony Download">Clique aqui para Download !</a></figcaption>
 </figure>
 
@@ -26,14 +26,14 @@ Já vi algumas maneiras diferentes de instalar o Symfony então caso haja alguma
 Logo que executamos o primeiro comando listado acima podemos nos deparar com a seguinte mensagem:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyInstall/curlNotFound.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyInstall/curlNotFound.png">
 	<figcaption><a data-toggle="tooltip" title="Cadê o Curl?">Curl Not Found</a></figcaption>
 </figure>
 
 Sendo assim precisamos instalar o curl, um erro comum é se instalar o php5-curl esperando que este seja o problema, bom não se trata do php5-curl o pacote que não está instalado é do próprio curl.
 Para isso apenas execute:
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyInstall/instalarCurl.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyInstall/instalarCurl.png">
 	<figcaption><a data-toggle="tooltip" title="Eis o Curl">Curl Install</a></figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Este segundo comando tornará o symfony Executável.
 
 Sendo assim só executar **symfony** de qualquer lugar no console que chamará o instalador do symfony, como mostrado abaixo:
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyInstall/chamadaSymfony.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyInstall/chamadaSymfony.png">
 	<figcaption><a data-toggle="tooltip" title="Symfony Installer">Comandos Symfony</a></figcaption>
 </figure>
 

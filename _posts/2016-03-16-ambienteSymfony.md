@@ -19,7 +19,7 @@ Já iniciamos nosso projeto, como você pode ver **[NESTE POST](http://jhoemrs.g
 Ao abrir um projeto Symfony nos deparamos com a seguinte estrutura de pastas:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/ambienteSymfony/estruturaPastas.png">
+	<img src="{{ site.url }}/images/bancoPostagens/ambienteSymfony/estruturaPastas.png">
 	<figcaption><a data-toggle="tooltip" title="Organização é a Alma do Negócio !">Estrutura de Pastas !</a></figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ Uma aplicação que utiliza Symfony provavelmente contará com um Banco de Dados
 Sendo assim localize o **parameters.yml** dentro de **app/config** e informe onde está localizado seu banco, seu user e senha do banco, etc...
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/ambienteSymfony/parameters.png">
+	<img src="{{ site.url }}/images/bancoPostagens/ambienteSymfony/parameters.png">
 	<figcaption><a data-toggle="tooltip" title="Parametrize a Aplicação !">Parameters YML !</a></figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Assim como ao realizar a limpeza/excluir algum bundle, você deve retirá-lo do 
 
 O nosso arquivo inicial do AppKernel se encontra assim:
 <figure>
-	<img src="{{ site.url }}/images/postagens/ambienteSymfony/appKernel.png">
+	<img src="{{ site.url }}/images/bancoPostagens/ambienteSymfony/appKernel.png">
 	<figcaption><a data-toggle="tooltip" title="Registre e Inicialize Bundles !">AppKernel!</a></figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ Por observação já deduzimos a partir do código que temos a opção de inicia
 Onde iremos fazer grande parte do nosso trabalho, controlar as rotas e Requests e Responses da vida é em nosso Controller, lá é uma parte importante da alma do Symfony, trabalharemos muito ali e por ser tão necessário, o nosso projeto quase em branco conta com 1 Controller criado, pois afinal precisamos acessar alguma rota:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/ambienteSymfony/controller.png">
+	<img src="{{ site.url }}/images/bancoPostagens/ambienteSymfony/controller.png">
 	<figcaption><a data-toggle="tooltip" title="Requests e Responses !">Controller!</a></figcaption>
 </figure>
 

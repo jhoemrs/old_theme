@@ -20,7 +20,7 @@ Espero que consigam compreender , e que sirva de exemplo para vocês !
 E programar em Python é muito simples tente você também !
 
 <figure>
-	<img src="{{ site.url }}/images/listapython1/snakepython.png">
+	<img src="{{ site.url }}/images/bancoPostagens/listapython1/snakepython.png">
 	<figcaption><a data-toggle="tooltip" title="Python é Fácil até para Zumbis!">Programe Em Python !</a></figcaption>
 </figure>
 

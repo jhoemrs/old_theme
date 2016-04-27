@@ -20,7 +20,7 @@ Esta resposta pode ser uma Página, JSON, ARRAY, XML, IMAGEM ou qualquer coisa q
 
 Este é o nosso Controller atual:
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyController/controllerInicial.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyController/controllerInicial.png">
 	<figcaption><a data-toggle="tooltip" title="Como nós deixamos na última aula.">Controller Inicial</a></figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ Primeira percepção que temos que ter é que muita coisa no Symfony pode e irá
 Como o nome já diz essa é a nossa rota, se alterarmos seu valor, devemos alterar também a url que será acessada, pois se mudarmos por exemplo para **@Route("/teste")** e acessarmos o endereço "/" veremos a seguinte tela de erro:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyController/noRouteFound.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyController/noRouteFound.png">
 	<figcaption><a data-toggle="tooltip" title="Erro Symfony.">Symfony Error</a></figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Já podemos retirar todo o **$this->render()** , já que o @Template identifica 
 Por exemplo , nossa view está localizada aqui:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyController/localizacaoView.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyController/localizacaoView.png">
 	<figcaption><a data-toggle="tooltip" title="Localizacao de Nossas Views.">View</a></figcaption>
 </figure>
 
@@ -103,14 +103,14 @@ Como fazer aparecer o **'Aprendiz de Symfony'** lá dentro de minha view ?
 Utilizaremos o comando **[TWIG](http://twig.sensiolabs.org/documentation)** , então nossa view ficará assim:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyController/twigAtributo.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyController/twigAtributo.png">
 	<figcaption><a data-toggle="tooltip" title="Atributo do Twig.">Twig Em Ação!</a></figcaption>
 </figure>
 
 Ao atualizarmos agora nossa página:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyController/helloAprendiz.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyController/helloAprendiz.png">
 	<figcaption><a data-toggle="tooltip" title="Bem Vindo Aprendiz.">Tudo Ok!</a></figcaption>
 </figure>
 

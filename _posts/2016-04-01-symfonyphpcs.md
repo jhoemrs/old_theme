@@ -54,7 +54,7 @@ phpcs -i
 
 Você será capaz de ver os Standards instalados que será algo parecido com isso:
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyphpcs/phpcsi.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyphpcs/phpcsi.png">
 	<figcaption><a data-toggle="tooltip" title="Informações PhpCS">phpcs -i</a></figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ pear config-show | grep php_dir
 
 Agora entre dentro do caminho acima `+ PHP/CodeSniffer/Standards`, no meu caso assim:
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyphpcs/phpcsdir.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyphpcs/phpcsdir.png">
 	<figcaption><a data-toggle="tooltip" title="Informações PhpCS">Diretório Code Sniffer</a></figcaption>
 </figure>
 
@@ -98,20 +98,20 @@ Como utilizo o `PhpStorm` (recomendo demais esta IDE), vou ensinar como integrar
 Primeito entre em Settings em sua IDE, e na busca dos Settings digite `Code Sniffer`.
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyphpcs/phpstormcs1.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyphpcs/phpstormcs1.png">
 	<figcaption><a data-toggle="tooltip" title="Busque Code Sniffer nos Settings">Settings</a></figcaption>
 </figure>
 
 Onde se encontra Configuration Local clique nos três pontinhos **...** para validarmos nosso `phpcs` , conforme imagem abaixo:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyphpcs/phpstormcs2.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyphpcs/phpstormcs2.png">
 	<figcaption><a data-toggle="tooltip" title="Digite phpcs e valide seu Code Sniffer">Validate Code Sniffer</a></figcaption>
 </figure>
 
 Após esta mensagem voltaremos e clicaremos em Inspections lá nos Settings, logo a direita onde marquei de amarelo selecione Default.
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyphpcs/phpstormcs3.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyphpcs/phpstormcs3.png">
 	<figcaption><a data-toggle="tooltip" title="Colocando o phpcs para todos os projetos">Default Para Todos os Projetos</a></figcaption>
 </figure>
 
@@ -121,12 +121,12 @@ Provavelmente acenderá algumas luzes em sua IDE passe o mouse por cima, e comec
 
 Veja os exemplos abaixo:
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyphpcs/phpstormcs4.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyphpcs/phpstormcs4.png">
 	<figcaption><a data-toggle="tooltip" title="PhpCs é Lindo">Comente suas Funções</a></figcaption>
 </figure>
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/symfonyphpcs/phpstormcs5.png">
+	<img src="{{ site.url }}/images/bancoPostagens/symfonyphpcs/phpstormcs5.png">
 	<figcaption><a data-toggle="tooltip" title="PhpCs é Lindo">Não é necessário aspas duplas neste caso! Obedeça!</a></figcaption>
 </figure>
 

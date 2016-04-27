@@ -23,22 +23,22 @@ Vamos lá, mão na massa!
 Primeiro vamos limpar o Bundle que já veio com nosso projeto.
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/novoBundle/limparPastasAppKernel.png">
+	<img src="{{ site.url }}/images/bancoPostagens/novoBundle/limparPastasAppKernel.png">
 	<figcaption><a data-toggle="tooltip" title="Limpando a estrutura.">Limpe AppKernel + Apague Pastas</a></figcaption>
 </figure>
 
 Para limpar o Bundle antigo apague-o do AppKernel e exclua as duas pastas AppBundle que estão selecionadas também na imagem acima, o próximo passo é limpar nosso routing.yml conforme imagem abaixo.
 
 <figure class="half">
-	<a href="{{ site.url }}/images/postagens/novoBundle/routingSujo.png"><img src="{{ site.url }}/images/postagens/novoBundle/routingSujo.png"></a>
-	<a href="{{ site.url }}/images/postagens/novoBundle/routingLimpo.png"><img src="{{ site.url }}/images/postagens/novoBundle/routingLimpo.png"></a>
+	<a href="{{ site.url }}/images/bancoPostagens/novoBundle/routingSujo.png"><img src="{{ site.url }}/images/bancoPostagens/novoBundle/routingSujo.png"></a>
+	<a href="{{ site.url }}/images/bancoPostagens/novoBundle/routingLimpo.png"><img src="{{ site.url }}/images/bancoPostagens/novoBundle/routingLimpo.png"></a>
 	<figcaption><a data-toggle="tooltip" title="Apague Tudo">Routing Sujo | Routing Limpo</a></figcaption>
 </figure>
 
 Agora abrimos o terminal e acessaremos a pasta de nosso projeto.
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/novoBundle/pastaProjeto.png">
+	<img src="{{ site.url }}/images/bancoPostagens/novoBundle/pastaProjeto.png">
 	<figcaption><a data-toggle="tooltip" title="CD BLOG">Acesse a Pasta do Projeto !</a></figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Configuration format (annotation, yml, xml, php) [annotation]:
 
 Ao fim deste passo, terá uma tela similar a esta:
 <figure>
-	<img src="{{ site.url }}/images/postagens/novoBundle/generateBundle.png">
+	<img src="{{ site.url }}/images/bancoPostagens/novoBundle/generateBundle.png">
 	<figcaption><a data-toggle="tooltip" title="Bundle Gerado!">Tela Bundle Gerado !</a></figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ bin/console server:run
 Ao acessarmos o endereço do servidor iniciado, se você executou todos os passos acima, verá a seguinte tela no navegador:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/novoBundle/navegadorHelloWorld.png">
+	<img src="{{ site.url }}/images/bancoPostagens/novoBundle/navegadorHelloWorld.png">
 	<figcaption><a data-toggle="tooltip" title="Hello World !">O Hello World Pra dar Sorte !!!</a></figcaption>
 </figure>
 

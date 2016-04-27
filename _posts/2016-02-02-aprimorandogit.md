@@ -42,7 +42,7 @@ O comando `git init` é responsável por inicializar um repositório em branco o
 Quando criamos um novo repositório como na imagem abaixo é visível que nos deparamos com o `GIT INIT` como primeiro comando git para um novo repositório em branco.
 
 <figure>
-	<img src="{{ site.url }}/images/usandogit/repositorionovo.jpeg">
+	<img src="{{ site.url }}/images/bancoPostagens/usandogit/repositorionovo.jpeg">
 	<figcaption><a data-toggle="tooltip" title="Criando novo repositório.">Novo Repositório no Github</a></figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ git clone LINKDOREPOSITORRIO
 Onde encontrar o `LINKDOREPOSITORIO` ?
 
 <figure>
-	<img src="{{ site.url }}/images/usandogit/ondeclonar.jpg">
+	<img src="{{ site.url }}/images/bancoPostagens/usandogit/ondeclonar.jpg">
 	<figcaption><a data-toggle="tooltip" title="Link para Clonar o Repositorio.">Encontre facilmente o link do Repositorio</a></figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ git add -a
 {% endhighlight %}
 
 <figure>
-	<img src="{{ site.url }}/images/usandogit/jackestripador.jpg">
+	<img src="{{ site.url }}/images/bancoPostagens/usandogit/jackestripador.jpg">
 	<figcaption><a data-toggle="tooltip" title="Jack diz: Vamos por Partes.">Jack, o Estripador</a></figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ Para este exemplo vou utilizar você e mais 1 amigo.
 O seu trabalho é fazer uma caixa, o do seu amigo é colocar uma cerveja na caixa.
 
 <figure>
-	<img height="50%" width="50%" src="{{ site.url }}/images/usandogit/caixacerveja.png">
+	<img height="50%" width="50%" src="{{ site.url }}/images/bancoPostagens/usandogit/caixacerveja.png">
 	<figcaption><a data-toggle="tooltip" title="Uma deliciosa, caixa com cerveja">Ambos fizeram PUSH & PULL</a></figcaption>
 </figure>
 

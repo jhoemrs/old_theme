@@ -27,7 +27,7 @@ symfony new blog
 Com este comando estaremos iniciando uma pasta chamada blog contendo um projeto Symfony.
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/iniciandoProjetoSymfony/setTimeZone.png">
+	<img src="{{ site.url }}/images/bancoPostagens/iniciandoProjetoSymfony/setTimeZone.png">
 	<figcaption><a data-toggle="tooltip" title="Precisamos setar o TimeZone">Opa, algo não está certo !</a></figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Temos 2 possíveis php.ini que são mais comuns, alteraremos os por via das dúv
 Estarei usando o gedit no meu comando que é o meu editor de texto, caso use o VIM ( Que também uso mas não tinha instalado no momento ), ou outro editor, substitua onde está escrito gedit pela chamada do seu editor.
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/iniciandoProjetoSymfony/sudoGeditPhpIni.png">
+	<img src="{{ site.url }}/images/bancoPostagens/iniciandoProjetoSymfony/sudoGeditPhpIni.png">
 	<figcaption><a data-toggle="tooltip" title="Primeiro Possível php.ini">Apache2 php.ini!</a></figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Busque ( Normalmente CTRL+F ) por date.timezone e lá que faremos a edição, on
 Logo seu arquivo ficará assim ou similar:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/iniciandoProjetoSymfony/phpIni.png">
+	<img src="{{ site.url }}/images/bancoPostagens/iniciandoProjetoSymfony/phpIni.png">
 	<figcaption><a data-toggle="tooltip" title="php.ini">Arquivo php.ini!</a></figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Precisamos também nos certificar que o php.ini estará configurado na pasta cli
 Então execute:
 
 <figure>
-	<img src="{{ site.url }}/images/postagens/iniciandoProjetoSymfony/sudoGeditPhpIni2.png">
+	<img src="{{ site.url }}/images/bancoPostagens/iniciandoProjetoSymfony/sudoGeditPhpIni2.png">
 	<figcaption><a data-toggle="tooltip" title="Segundo Possível php.ini">CLI php.ini!</a></figcaption>
 </figure>
 
@@ -73,20 +73,20 @@ sudo /etc/init.d/apache2 restart
 
 Após tudo isto, podemos verificar se nosso Symfony está agora atendendo aos requisitos técnicos para rodar em nosso sistema:
 <figure>
- <img src="{{ site.url }}/images/postagens/iniciandoProjetoSymfony/checkSymfonyOk.png">
+ <img src="{{ site.url }}/images/bancoPostagens/iniciandoProjetoSymfony/checkSymfonyOk.png">
  <figcaption><a data-toggle="tooltip" title="Aleluia !">Symfony Requisitos Checkup</a></figcaption>
 </figure>
 
 Agora podemos entrar em nossa pasta **blog** que contém nosso projeto.
 E teremos a seguinte estrutura de pastas:
 <figure>
- <img src="{{ site.url }}/images/postagens/iniciandoProjetoSymfony/estruturaPastas.png">
+ <img src="{{ site.url }}/images/bancoPostagens/iniciandoProjetoSymfony/estruturaPastas.png">
  <figcaption><a data-toggle="tooltip" title="Repare no Composer !">Pastas e Arquivos</a></figcaption>
 </figure>
 
 Temos o detalhe do **Composer.json** neste JSON contém todas as dependências que são necessárias para rodar este projeto, como já temos nosso **[COMPOSER](http://jhoemrs.github.io/desenvolvimento/composerInstall)** configurado , só precisamos executá-lo com o comando **install** para instalarmos as dependências!
 <figure>
- <img src="{{ site.url }}/images/postagens/iniciandoProjetoSymfony/composerInstall.png">
+ <img src="{{ site.url }}/images/bancoPostagens/iniciandoProjetoSymfony/composerInstall.png">
  <figcaption><a data-toggle="tooltip" title="Composer em Ação !">Composer Install</a></figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Temos tudo instaladinho agora, podemos chamar um comando que será **EXTREMAMENT
 
 Ao executá-lo puramente teremos a lista de comandos disponíveis:
 <figure>
- <img src="{{ site.url }}/images/postagens/iniciandoProjetoSymfony/binConsole.png">
+ <img src="{{ site.url }}/images/bancoPostagens/iniciandoProjetoSymfony/binConsole.png">
  <figcaption><a data-toggle="tooltip" title="Bin/Console Wins!">Symfony em Ação</a></figcaption>
 </figure>
 
@@ -102,13 +102,13 @@ Tudo OK ! **Bin/Console** Rodando Liso ! Dependências instaladas ! Agora é só
 
 Execute o comando bin/console abaixo:
 <figure>
- <img src="{{ site.url }}/images/postagens/iniciandoProjetoSymfony/binConsoleServerRun.png">
+ <img src="{{ site.url }}/images/bancoPostagens/iniciandoProjetoSymfony/binConsoleServerRun.png">
  <figcaption><a data-toggle="tooltip" title="Bin/Console Wins!">Rodando Servidor com Symfony</a></figcaption>
 </figure>
 
 Só precisamos acessar agora o caminho nos dado ( no meu caso http://127.0.0.1:8000 ) e finalmente teremos a linda tela de boas-vindas do Symfony !
 <figure>
- <img src="{{ site.url }}/images/postagens/iniciandoProjetoSymfony/projectStarted.png">
+ <img src="{{ site.url }}/images/bancoPostagens/iniciandoProjetoSymfony/projectStarted.png">
  <figcaption><a data-toggle="tooltip" title="Symfony Wins!">Welcome To Symfony</a></figcaption>
 </figure>
 
