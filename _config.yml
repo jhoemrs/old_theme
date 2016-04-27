@@ -1,6 +1,6 @@
 title:            Guia Programador
 description:      "Porque Programadores Gostam de Programar!"
-logo:             minhaLogo.png
+logo:             logo.svg
 disqus_shortname: jhoemrs
 # Assign a default image for your site's header and footer
 default_bg:       index/index.svg
