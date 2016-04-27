@@ -9,7 +9,7 @@ image:
 
 Meu nome é **Jhonatan Mark**, e este é o meu blog.
 
-<img src="{{ site.url }}/images/jhonatanmark.jpg" alt="Jhonatan Mark">
+<img src="{{ site.url }}/images/config/quemsoueu/jhonatanmark.jpg" alt="Jhonatan Mark">
 
 Eu sou formado em *Sistemas de Informação* pela [Universidade Geraldo di Biase](http://www.ugb.edu.br/).
 
