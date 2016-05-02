@@ -88,8 +88,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://guiaprogramador.com.br/'
-  relativeLinks: 'http://guiaprogramador.com.br/links.jsonp'
+  siteurl: 'https://guiaprogramador.com.br/'
+  relativeLinks: 'https://guiaprogramador.com.br/links.jsonp'
   media: 'images'
   metadata:
     _posts:
