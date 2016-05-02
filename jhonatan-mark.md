@@ -11,7 +11,7 @@ Meu nome é **Jhonatan Mark**, e este é o meu blog.
 
 <img src="{{ site.url }}/images/config/quemsoueu/jhonatanmark.jpg" alt="Jhonatan Mark">
 
-Eu sou formado em *Sistemas de Informação* pela [Universidade Geraldo di Biase](http://www.ugb.edu.br/).
+Eu sou formado em *Sistemas de Informação* pelo [Centro Universitário Geraldo di Biase](http://www.ugb.edu.br/).
 
 Na minha visão a tecnologia tem que trabalhar a favor do homem, e não o contrário, sou amante de um bom código
 bem escrito e organizado.
