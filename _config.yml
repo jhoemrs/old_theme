@@ -200,5 +200,6 @@ prose:
 excerpt_separator: ""
 gems:
     - jekyll-paginate
+    - jekyll-gist
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
