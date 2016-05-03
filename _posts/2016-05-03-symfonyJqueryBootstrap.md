@@ -99,49 +99,14 @@ assetic:
 Após isto nossos `assets` já estarão prontos para serem acessados por nossas views, porém para deixar a coisa ainda mais legal, vamos deduzir que o bootstrap e o jquery será um asset padrão, e então vamos alterar o nosso arquivo `base`.
 
 Este arquivo pode ser localizado dentro da pasta do projeto seguido de `Resources/views/default/base.html.twig` lá então teremos nosso arquivo base, e vamos deixá-lo desta seguinte maneira:
-{% highlight twig %}
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>{% block title %}Welcome!{% endblock %}</title>
-
-
-        {% block stylesheets %}
-            {% stylesheets
-                '@bootstrap_css' %}
-            <link rel="stylesheet" href="{{ asset_url }}" />
-            {% endstylesheets %}
-        {% endblock %}
-
-        <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
-
-    </head>
-    <body>
-        {% block body %}{% endblock %}
-        {% block javascripts %}
-            {% javascripts
-                '@jquery'
-                '@bootstrap_js' %}
-            <script src="{{ asset_url }}"></script>
-            {% endjavascripts %}
-        {% endblock %}
-    </body>
-</html>
-{% endhighlight %}
+{% gist 9fb3c1e2f4eda0116f4ef638a1909f70 %}
 
 Agora só precisamos extender nossas futuras `views` apontando para `base` e teremos já o bootstrap disponível.
 
 Para exemplificar e testar faça uma view deste forma:
-{% highlight twig %}
-{% extends 'base.html.twig' %}
-{% block body %}
-<button class="btn btn-primary">Botão Bootstrap</button>
-{% endblock %}
-{% endhighlight %}
+
+{% gist 4b089dc2298a619bfd395bfced73030f %}
 
 Se você ver o resultado do botão semelhante à esta imagem:
 <figure>
