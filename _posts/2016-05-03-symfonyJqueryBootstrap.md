@@ -30,6 +30,7 @@ composer.phar require symfony/assetic-bundle
 
 Então agora habilite este `Bundle` no seu `AppKernel.php` da sua aplicação Symfony:
 {% highlight php %}
+<?php
 // app/AppKernel.php
 
 // ...
