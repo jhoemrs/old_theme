@@ -125,3 +125,5 @@ percentuais = calculaPercentuais(consumosMega)
 criaRelatorio(nomes,consumosMega,percentuais)
 
 {% endhighlight %}
+
+Dúvidas ??? Utilize o Campo de Comentário abaixo ! Um Abraço !
