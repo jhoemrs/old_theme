@@ -14,7 +14,7 @@ share: true
 
 Olá amigos, na antiga postagem sobre exercicios resolvidos em Python, surgiu uma questão nos comentários para se resolver.
 
-Confira a postagem **[Aqui Neste Link](https://guiaprogramador.com.br/desenvolvimento/exerciciospython1)**.
+Confira a postagem **[Aqui Neste Link](https://guiaprogramador.com.br/desenvolvimento/exerciciospython1)**!
 
 Tivemos a Seguinte Questão:
 
