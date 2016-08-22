@@ -1,7 +1,7 @@
 ---
 layout: post
 type: quote
-title: "Guia Programador"
+title: Guia Programador
 description: Um pouco sobre Mark Zuckerberg
 headline:
 modified: 2016-08-23
