@@ -20,7 +20,7 @@ Tivemos a Seguinte Questão:
 
 <figure>
 	<img src="{{ site.url }}/images/bancoPostagens/criarRelatorioPython/sugestaoQuestao.png">
-	<figcaption><a data-toggle="tooltip" title="Preservei os Dados para privacidade do Nosso amigo com Dúvidas">Clique aqui para Download !</a></figcaption>
+	<figcaption><a data-toggle="tooltip" title="Preservei os Dados para privacidade do Nosso amigo com Dúvidas"></a></figcaption>
 </figure>
 
 Algumas Observações que não podem Passar em Branco:
