@@ -4,9 +4,10 @@ type: quote
 title: "Guia Programador"
 description: Um pouco sobre Mark Zuckerberg
 headline:
+modified: 2016-08-23
 category: Pessoal
 tags: [Pessoal, Pensamentos]
-imagefeature: postagens/fraseMarkZuckerberg/fraseMarkZuckerberg.svg
+imagefeature: bancoPostagens/fraseMarkZuckerberg/fraseMarkZuckerberg.svg
 comments: true
 ---
 >&quot;É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.&quot;
