@@ -7,7 +7,7 @@ category: Desenvolvimento
 tags: [Python, Exercicios]
 modified: 2016-08-22
 featured: false
-imagefeature: postagens/listapython1/listapython1.svg
+imagefeature: postagens/criaRelatorioPython/criaRelatorio.svg
 comments: true
 share: true
 ---
@@ -19,7 +19,7 @@ Confira a postagem **[Aqui Neste Link](https://guiaprogramador.com.br/desenvolvi
 Tivemos a Seguinte Questão:
 
 <figure>
-	<img src="{{ site.url }}/images/bancoPostagens/criarRelatorioPython/sugestaoQuestao.png">
+	<img src="{{ site.url }}/images/bancoPostagens/criaRelatorioPython/sugestaoQuestao.png">
 	<figcaption><a data-toggle="tooltip" title="Preservei os Dados para privacidade do Nosso amigo com Dúvidas"></a></figcaption>
 </figure>
 
@@ -125,5 +125,9 @@ percentuais = calculaPercentuais(consumosMega)
 criaRelatorio(nomes,consumosMega,percentuais)
 
 {% endhighlight %}
+
+Primeiro Abrimos o Arquivo e o colocamos dentro de uma lista.
+Definimos funções para organizar e calcular tudo que o relatório precisa.
+Criamos uma função que gera o relatório, passando como parametro nossas listas já tratadas.
 
 Dúvidas ??? Utilize o Campo de Comentário abaixo ! Um Abraço !
