@@ -1,7 +1,7 @@
 ---
 layout: post
 type: quote
-title: Guia Programador
+title: É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.
 description: Um pouco sobre Mark Zuckerberg
 headline:
 modified: 2016-08-23
@@ -10,7 +10,7 @@ tags: [Pessoal, Pensamentos]
 imagefeature: bancoPostagens/fraseMarkZuckerberg/fraseMarkZuckerberg.svg
 comments: true
 ---
->&quot;É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.&quot;
+>É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.
 ><small><cite title="Mark Zuckerberg">Mark Zuckerberg</cite></small>
 
 Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich, where he later on began his schooling at the Luitpold Gymnasium. Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics. In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office. In 1905 he obtained his doctor's degree.
