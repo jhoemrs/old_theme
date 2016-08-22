@@ -1,6 +1,6 @@
 ---
 layout: post
-type: quote
+type: status
 title: É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.
 description: Um pouco sobre Mark Zuckerberg
 headline:
